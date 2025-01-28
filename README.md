@@ -2,6 +2,25 @@
 
 This project is a NestJS application designed to evaluate interview candidates. It contains a set of questions that assess the candidate's knowledge and skills in NodeJS, NestJS, and APIs.
 
+## Running Project
+
+To run this project follow those steps
+```bash
+# 1. Clone repository
+git clone https://github.com/elied-dev/nestjs-interview
+
+# 2. cd into the repository
+cd nestjs-interview/
+
+# 3. Install dependencies
+npm install
+
+# 4. Run project
+npm run start:dev # watch mode
+npm run start
+```
+
+
 ## Interview Questions
 
 ### Question #1 (Mid-Level) - API Route Implementation
